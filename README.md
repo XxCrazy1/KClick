@@ -1,7 +1,3 @@
-Claro, aqui está um texto de README explicando como o seu Auto Click funciona:
-
----
-
 # KClick - Auto Clicker
 
 Bem-vindo ao KClick, um Auto Clicker projetado para automatizar cliques repetitivos e facilitar tarefas que requerem cliques constantes. Este guia fornecerá uma visão geral de como configurar e usar o KClick.
